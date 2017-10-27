@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="204836">
+         <thumbnail>https://cf.geekdo-images.com/images/pic3117400_t.png</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic3117400.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Escape Room: The Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Escape Room: Das Spiel" />
+			
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;Take the viral social experience of Escape Rooms to the comfort of your own home and for a fraction of the cost that you would pay! Included in this game are 4 unique 60 minute escape room puzzles that will test your cranial skills. Use images, gears, words, keys, shapes, maps and more to solve the three stages within each escape room. An analog timer on the Chrono Decoder centerpiece incessantly counts down, emitting ominous noises to create an environment shut out from the outside world. If the puzzles stump you for too long, slide a hint card into the Hint Decoder to keep your team moving. Slide 4 keys into the Chrono Decoder when you think you have the answer... but beware, if you're wrong, a precious minute will be taken from you.&amp;#10;&amp;#10;The 4 escape rooms vary in difficulty, designed to give any group the experience they expect and deserve. If you're craving more puzzles, Escape Room expansions will be available, but you'll need the base game first as the Chrono Decoder is essential to the experience. Included in the base game in order of difficulty is: Prison Break, Virus, Nuclear Countdown, and Temple of the Aztec&amp;#10;&amp;#10;Prison Break: Ten years in prison for a crime you didn't commit. Ten years of your life wasted for being in the wrong place at the wrong time, it hardly seemed fair. You know the guards will reach your cell during the rounds in an hour. Every bone in your body tells you this is the opportunity of a lifetime; you're 60 minutes away from freedom!&amp;#10;&amp;#10;Virus: What a time to faint! You swear you could kill your lab partner, but you know that won't be necessary. The liquid that's oozing out of the broken bottle will kill everybody in the room soon enough...&amp;#10;&amp;#10;Nuclear Countdown: The table is filled with all kinds of materials that send shivers down your spine. At that moment your phone rings and your worst nightmare becomes reality, the bomb threat is real!&amp;#10;&amp;#10;Temple of the Aztec: The stories told about the temple were numerous. Anybody that had entered the temple was never seen again, supposedly killed by vipers. But stories also spoke of the Eye of Aztec, the largest diamond that ever existed&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 
+			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="16" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="65" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Co-operative Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="36900" value="Escape Room Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219575" value="Escape Room: The Game – Casino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215409" value="Escape Room: The Game – Murder Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="221701" value="Escape Room: The Game – Space Station" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216961" value="Escape Room: The Game – Welcome To Funland" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51039" value="Roland MacDonald" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1299" value="Diset S. A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1613" value="Identity Games International B.V." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="304" value="Noris Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1905" value="Spin Master Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

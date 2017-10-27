@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="170042">
+         <thumbnail>https://cf.geekdo-images.com/images/pic3578101_t.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic3578101.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Raiders of the North Sea" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Invasores do Mar do Norte" />
+			    				
+				<name type="alternate" sortindex="1" value="Najeźdźcy z Północy" />
+			    				
+				<name type="alternate" sortindex="1" value="Pillards de la mer du Nord" />
+			    				
+				<name type="alternate" sortindex="1" value="Räuber der Nordsee" />
+			    				
+				<name type="alternate" sortindex="1" value="Saqueadores del Mar del Norte" />
+			    				
+				<name type="alternate" sortindex="1" value="Βίκινγκς: οι Επιδρομείς της Βόρειας Θάλασσας" />
+			
+						               													<description>Raiders of the North Sea is set in the central years of the Viking Age. As Viking warriors, players seek to impress the Chieftain by raiding unsuspecting settlements. Players will need to assemble a crew, collect provisions and journey north to plunder gold, iron and livestock. There is glory to be found in battle, even at the hands of the Valkyrie. So gather your warriors, it&amp;rsquo;s raiding season!&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Aim of the Game&amp;#10;&amp;#10;The aim of Raiders of the North Sea is to impress the Chieftain by having the most Victory Points (VP) at the game&amp;rsquo;s end. Victory Points are gained primarily by raiding Settlements, taking Plunder and making Offerings to the Chieftain. How players use their Plunder is also vital to their success. The game ends when either only 1 Fortress raid remains, all Valkyrie are removed, or all Offerings have been made.&amp;#10;&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Gameplay Overview&amp;#10;&amp;#10;Proceeding clockwise from the starting player, each player takes his turn in full. On his turn, a player may choose to Work or Raid. Players continue to take turns until 1 of the 3 end-game conditions has been met. Regardless of choices, each turn follows the same pattern:&amp;#10;&amp;#10;1. Place Worker and resolve its action&amp;#10;2. Pick up a different Worker and resolve its action&amp;#10;&amp;#10;Working&amp;#10;Having a good Crew and enough provisions are vital to successful raiding. So before making any raids, players will need to do some work to prepare their Crew and collect supplies. This is all done in the Village, at the bottom of the board. There are 8 different buildings, with various actions. Players must first place their one and only Worker in an available building (where there is no Worker present), before picking up a different Worker from a different building (where there is a Worker present).&amp;#10;&amp;#10;Raiding&amp;#10;Once players have hired enough Crew and collected Provisions, they may choose to raid on their turn. To raid a Settlement (Harbour, Outpost, Monastery or Fortress), players need to meet 3 requirements. They must have:&amp;#10;&amp;#10;1. A large enough Crew.&amp;#10;2. Enough Provisions (and Gold for Monasteries/Fortresses).&amp;#10;3. The required Worker colour.&amp;#10;&amp;#10;Raiding offers various ways of scoring (Military Strength, Plunder, Valkyrie, etc.). This is also how Grey and White Workers enter the game.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;End of the Game&amp;#10;&amp;#10;There are 3 ways the game can end:&amp;#10;&amp;#10;1. There is only 1 set of Plunder left in the Fortresses (1 of the 6 Fortress raids remains).&amp;#10;2. The Offering Draw Pile has been emptied.&amp;#10;3. There are no Valkyrie left on the board.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll> 
+			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27177" value="The North Sea Trilogy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5613" value="Vikings" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="190798" value="The North Sea Runesaga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210164" value="Raiders of the North Sea: Fields of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210163" value="Raiders of the North Sea: Hall of Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234362" value="Raiders of the North Sea: Rod &amp; Pep Watch It Played Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="236824" value="Raiders of the North Sea: The Mico Promo" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="176371" value="Explorers of the North Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12547" value="Shem Phillips" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70533" value="Mihajlo Dimitrievski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Ediciones Primigenio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9459" value="Garphill Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32591" value="Meeple BR Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="PixieGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

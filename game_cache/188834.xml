@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="188834">
+         <thumbnail>https://cf.geekdo-images.com/images/pic2771488_t.png</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic2771488.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Secret Hitler" />
+			
+						                           
+						               													<description>Secret Hitler is a dramatic game of political intrigue and betrayal set in 1930s Germany. Each player is randomly and secretly assigned to be a liberal or a fascist, and one player is Secret Hitler. The fascists coordinate to sow distrust and install their cold-blooded leader; the liberals must find and stop the Secret Hitler before it's too late. The liberal team always has a majority.&amp;#10;&amp;#10;At the beginning of the game, players close their eyes, and the fascists reveal themselves to one another. Secret Hitler keeps his eyes closed, but puts his thumb up so the fascists can see who he is. The fascists learn who Hitler is, but Hitler doesn't know who his fellow fascists are, and the liberals don't know who anyone is.&amp;#10;&amp;#10;Each round, players elect a President and a Chancellor who will work together to enact a law from a random deck. If the government passes a fascist law, players must try to figure out if they were betrayed or simply unlucky. Secret Hitler also features government powers that come into play as fascism advances. The fascists will use those powers to create chaos unless liberals can pull the nation back from the brink of war.&amp;#10;&amp;#10;The objective of the liberal team is to pass five liberal policies or assassinate Secret Hitler. The objective of the fascist team is to pass six fascist policies or elect Secret Hitler chancellor after three fascist policies have passed.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="5" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="93">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="59" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+	</poll> 
+			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="11" />
+					<result value="16" numvotes="11" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Partnerships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Werewolf / Mafia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87375" value="Mike Boxleiter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87376" value="Tommy Maranges" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20341" value="Max Temkin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75735" value="Mackenzie Schubert" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34112" value="Goat Wolf &amp; Cabbage" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

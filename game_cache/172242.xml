@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="172242">
+         <thumbnail>https://cf.geekdo-images.com/images/pic2815278_t.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic2815278.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Exploding Kittens: NSFW Deck" />
+			
+						                           
+						               													<description>Originally an expansion for Exploding Kittens, the most successful Kickstarer project ever, that contained cards that were too horrific and/or incredible to be included in a kid safe version. As a stretch goal this was turned into a stand alone game that can be combined with the standard Exploding Kittens deck.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="23">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll> 
+			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="2" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="371" value="No necessary in-game text" numvotes="0" />
+					<result level="372" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="373" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="374" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="375" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Press Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204053" value="Imploding Kittens" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="172225" value="Exploding Kittens" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71478" value="Matthew Inman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80158" value="Elan Lee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5874" value="Shane Small" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71478" value="Matthew Inman" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

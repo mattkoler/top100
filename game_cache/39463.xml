@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39463">
+         <thumbnail>https://cf.geekdo-images.com/images/pic1521633_t.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic1521633.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cosmic Encounter" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kosmiczne spotkania" />
+			    				
+				<name type="alternate" sortindex="1" value="Rencontre Cosmique" />
+			    				
+				<name type="alternate" sortindex="1" value="コズミック・エンカウンター" />
+			
+						               													<description>From the Manufacturer&amp;#10;&amp;#10;Build a galactic empire... In the depths of space, the alien races of the Cosmos vie with each other for control of the universe. Alliances form and shift from moment to moment, while cataclysmic battles send starships screaming into the warp.  Players choose from dozens of alien races, each with its own unique power to further its efforts to build an empire that spans the galaxy.&amp;#10;&amp;#10;Many classic aliens from earlier editions of this beloved game return, such as the Oracle, the Loser, and the Clone. Newly discovered aliens also join the fray, including Remora, Mite, and Tick-Tock.  This classic game of alien politics returns from the warp once more.&amp;#10;&amp;#10;In Cosmic Encounter, each player is the leader of an alien race. On a player's turn, he or she becomes the offense.  The offense encounters another player on a planet by moving a group of his or her ships through the hyperspace gate to that planet.  The offense draws from the destiny deck which contains colors, wilds and specials.  He or she then takes the hyperspace gate and points at one planet in the system indicated by the drawn destiny card.  The offense vs. the defenses ships are in the encounter and both sides are able to invite allies, play an encounter card as well as special cards to try and tip the encounter in their favor.&amp;#10;&amp;#10;The object of the game is to establish colonies in other players' planetary systems. Players take turns trying to establish colonies. The winner(s) are the first player(s) to have five colonies on any planets outside his or her home system. A player does not need to have colonies in all of the systems, just colonies on five planets outside his or her home system. These colonies may all be in one system or scattered over multiple systems. The players must use force, cunning, and diplomacy to ensure their victory.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="452">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="297" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="305" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="127" />
+					<result value="Not Recommended" numvotes="213" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="113" />
+					<result value="Recommended" numvotes="259" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="347" />
+					<result value="Recommended" numvotes="77" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="114" />
+					<result value="Recommended" numvotes="132" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+	</poll> 
+			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="86">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="16" />
+					<result value="10" numvotes="23" />
+					<result value="12" numvotes="29" />
+					<result value="14" numvotes="14" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="100">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="16" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="74" />
+					<result level="5" value="Unplayable in another language" numvotes="8" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Partnerships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="133" value="Cosmic Encounter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="114276" value="Cosmic Encounter: Cosmic Alliance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="87507" value="Cosmic Encounter: Cosmic Conflict" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153971" value="Cosmic Encounter: Cosmic Dominion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206366" value="Cosmic Encounter: Cosmic Eons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="61001" value="Cosmic Encounter: Cosmic Incursion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="143760" value="Cosmic Encounter: Cosmic Storm" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="204837" value="Game of Thrones: The Iron Throne" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="15" value="Cosmic Encounter" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="40529" value="Cosmic Encounter" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="40531" value="Cosmic Encounter" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="34" value="Bill Eberle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35" value="Jack Kittredge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10774" value="Bill Norton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36" value="Peter Olotka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12018" value="Andrew Navaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12438" value="Ryan Barger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12437" value="Felicia Cano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12435" value="Sabe Lewellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11989" value="Brian Schomburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12436" value="WiL Springer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31099" value="House of Monks" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>

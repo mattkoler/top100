@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="38453">
+         <thumbnail>https://cf.geekdo-images.com/images/pic384313_t.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic384313.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Space Alert" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="スペース・アラート" />
+			    				
+				<name type="alternate" sortindex="1" value="スペース・アラート" />
+			    				
+				<name type="alternate" sortindex="1" value="太空警報" />
+			
+						               													<description>Space Alert is a cooperative team survival game. Players become crew members of a small spaceship scanning dangerous sectors of the galaxy. The missions last just 10 real-time minutes (hyperspace jump, sector scan, hyperspace jump back) and the only task the players have is to protect their ship.&amp;#10;&amp;#10;During play, the central computer will announce the presence of various threats on one the supplied 10 minute soundtracks that also acts as a game timer. The threats vary from space battleships and interceptors to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree who will take care of which task and coordinate their actions (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.&amp;#10;&amp;#10;The game offers several difficulty levels, huge variability and a unique experience for one to five player teams. One mission lasts only about 30 minutes, including setup and evaluation.&amp;#10;&amp;#10;(Based on a description from Czech Games Edition)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="283">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="124" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="114" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="126" />
+					<result value="Not Recommended" numvotes="65" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="180" />
+					<result value="Recommended" numvotes="80" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="193" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="110" />
+				</results>					
+	</poll> 
+			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="54">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="20" />
+					<result value="14" numvotes="18" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="80">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="13" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="51" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="9" />
+					<result level="5" value="Unplayable in another language" numvotes="6" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action / Movement Programming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Co-operative Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7475" value="CD Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Solitaire Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="90133" value="Little Duckling (fan expansion for Space Alert)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="61492" value="Space Alert: The New Frontier" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11938" value="Radim Pech" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11961" value="Milan Vavroň" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4696" value="Quined White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6123" value="Red Glove" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>
