@@ -1,6 +1,7 @@
 from lxml import etree
 import requests, time, sys
 from io import BytesIO
+import csv
 
 """A scraper to pull the collection from a bgg user and return results by player count"""
 
@@ -96,3 +97,19 @@ for players in sorted(game_info_dict.keys()):
     print('Recommended at {} players'.format(players))
     for game in rec:
         print('{} time: {}-{}min'.format(*game))
+
+with open('collection_summary.csv','w') as csvfile:
+    writer = csv.writer(csvfile,lineterminator="\n")
+
+    for players in sorted(game_info_dict.keys()):
+        best, rec = game_info_dict[players]
+        writer.writerow([players,'min time','max time'])
+        writer.writerow(['best'])
+        if len(best) == 0:
+            writer.writerow([''])
+        for game in best:
+            writer.writerow([game[0],game[1],game[2]])
+
+        writer.writerow(['recommended'])
+        for game in rec:
+            writer.writerow([game[0],game[1],game[2]])
