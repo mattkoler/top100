@@ -2,12 +2,18 @@ from lxml import etree
 import requests, time, sys
 from io import BytesIO
 import csv
+import os
 
 """A scraper to pull the collection from a bgg user and return results by player count"""
 
-username = 'CPT_Lemons'
+#gets the location where we are executing so we can access files/folders next to it
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+
+username = input('Please enter the bgg username for the collection:')
 col_url = 'https://www.boardgamegeek.com/xmlapi2/collection?username={}&excludesubtype=boardgameexpansion&own=1'.format(username)
 
+print("Fetching collection for {}".format(username))
 collection = requests.get(col_url)
 
 
@@ -18,6 +24,12 @@ while collection.status_code == 202:
     counter += 1
     if counter > 10:
         sys.exit()
+
+if collection.status_code != 200:
+    print('Sorry, something went wrong. See below and try again.')
+    print(collection.status_code)
+    sys.exit()
+
 
 root = etree.parse(BytesIO(collection.content))
 
@@ -30,10 +42,12 @@ for item in root.xpath('/items/item'):
 game_info = []
 for game_id in game_ids:
     try:
-        with open('game_cache/{}.xml'.format(game_id),'rb') as f:
+        with open(dir_path + '/game_cache/{}.xml'.format(game_id),'rb') as f:
             game_info.append(f.read())
             print('read file from cache id:', game_id)
             continue
+    except FileNotFoundError:
+        print('Creating a cache file for id {}.'.format(game_id))
     except:
         print(sys.exc_info()[0])
         pass
@@ -45,7 +59,7 @@ for game_id in game_ids:
         game_info.append(fetch.content)
         if fetch.status_code != 200:
             sys.exit()
-        with open('game_cache/{}.xml'.format(game_id),'wb') as f:
+        with open(dir_path + '/game_cache/{}.xml'.format(game_id),'wb') as f:
             f.write(fetch.content)
             print('wrote new cache for id', game_id)
         time.sleep(2)
@@ -97,6 +111,14 @@ for players in sorted(game_info_dict.keys()):
     print('Recommended at {} players'.format(players))
     for game in rec:
         print('{} time: {}-{}min'.format(*game))
+
+csvprint = input('Do you want to print this to a csv? (y/n)')
+while csvprint.lower() not in ['y','yes','no','n']:
+    print("Sorry I didn't catch that.")
+    csvprint = input('Do you want to print this to a csv? (y/n)')
+
+if csvprint.lower() in ['n','no']:
+    sys.exit()
 
 with open('collection_summary.csv','w') as csvfile:
     writer = csv.writer(csvfile,lineterminator="\n")

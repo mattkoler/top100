@@ -116,11 +116,11 @@
 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="51">
 			
 		<results>		
-					<result level="1" value="No necessary in-game text" numvotes="15" />
-					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="36" />
-					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="5" value="Unplayable in another language" numvotes="0" />
+					<result level="341" value="No necessary in-game text" numvotes="15" />
+					<result level="342" value="Some necessary text - easily memorized or small crib sheet" numvotes="36" />
+					<result level="343" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="344" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="345" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 

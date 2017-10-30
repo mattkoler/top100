@@ -43,7 +43,7 @@
 										      	               				<yearpublished value="2004" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="6" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="997">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="999">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
@@ -64,19 +64,19 @@
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="620" />
+					<result value="Best" numvotes="621" />
 					<result value="Recommended" numvotes="274" />
 					<result value="Not Recommended" numvotes="5" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="594" />
+					<result value="Best" numvotes="595" />
 					<result value="Recommended" numvotes="249" />
 					<result value="Not Recommended" numvotes="18" />
 				</results>					
 			
 		<results numplayers="6">		
-					<result value="Best" numvotes="167" />
+					<result value="Best" numvotes="169" />
 					<result value="Recommended" numvotes="468" />
 					<result value="Not Recommended" numvotes="133" />
 				</results>					
@@ -91,7 +91,7 @@
 						               				<minplaytime value="120" />
 						               				<maxplaytime value="120" />
 						               				<minage value="12" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="204">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="205">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -101,20 +101,20 @@
 					<result value="8" numvotes="9" />
 					<result value="10" numvotes="44" />
 					<result value="12" numvotes="103" />
-					<result value="14" numvotes="43" />
+					<result value="14" numvotes="44" />
 					<result value="16" numvotes="4" />
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
 	</poll> 
-			      			<poll name="language_dependence" title="Language Dependence" totalvotes="303">
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="304">
 			
 		<results>		
-					<result level="21" value="No necessary in-game text" numvotes="285" />
-					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="18" />
-					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
-					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="25" value="Unplayable in another language" numvotes="0" />
+					<result level="101" value="No necessary in-game text" numvotes="286" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="18" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 

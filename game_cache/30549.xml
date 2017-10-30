@@ -67,7 +67,7 @@
 						               				<minplaytime value="45" />
 						               				<maxplaytime value="45" />
 						               				<minage value="8" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="357">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="358">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -75,7 +75,7 @@
 					<result value="5" numvotes="2" />
 					<result value="6" numvotes="21" />
 					<result value="8" numvotes="108" />
-					<result value="10" numvotes="138" />
+					<result value="10" numvotes="139" />
 					<result value="12" numvotes="73" />
 					<result value="14" numvotes="13" />
 					<result value="16" numvotes="1" />
@@ -86,11 +86,11 @@
 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="299">
 			
 		<results>		
-					<result level="1" value="No necessary in-game text" numvotes="10" />
-					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="245" />
-					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="40" />
-					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
-					<result level="5" value="Unplayable in another language" numvotes="1" />
+					<result level="296" value="No necessary in-game text" numvotes="10" />
+					<result level="297" value="Some necessary text - easily memorized or small crib sheet" numvotes="245" />
+					<result level="298" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="40" />
+					<result level="299" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="300" value="Unplayable in another language" numvotes="1" />
 				</results>					
 	</poll> 
 			      			 
