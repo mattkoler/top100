@@ -120,7 +120,7 @@ while csvprint.lower() not in ['y','yes','no','n']:
 if csvprint.lower() in ['n','no']:
     sys.exit()
 
-with open('collection_summary.csv','w') as csvfile:
+with open(dir_path + '/{}.csv'.format(username),'w') as csvfile:
     writer = csv.writer(csvfile,lineterminator="\n")
 
     for players in sorted(game_info_dict.keys()):

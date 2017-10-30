@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="http://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34635">
+         <thumbnail>https://cf.geekdo-images.com/images/pic1632539_t.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/images/pic1632539.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stone Age" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="100000 лет до нашей эры" />
+			    				
+				<name type="alternate" sortindex="3" value="L&#039;Âge de Pierre" />
+			    				
+				<name type="alternate" sortindex="1" value="Doba kamenná" />
+			    				
+				<name type="alternate" sortindex="1" value="Epoka Kamienia" />
+			    				
+				<name type="alternate" sortindex="1" value="Stenen Tijdperk" />
+			    				
+				<name type="alternate" sortindex="1" value="Stone Age: Találd meg az utad" />
+			    				
+				<name type="alternate" sortindex="1" value="Λίθινη Εποχή" />
+			    				
+				<name type="alternate" sortindex="1" value="石器時代" />
+			    				
+				<name type="alternate" sortindex="1" value="석기시대" />
+			
+						               													<description>The &amp;quot;Stone Age&amp;quot; times were hard indeed. In their roles as hunters, collectors, farmers, and tool makers, our ancestors worked with their legs and backs straining against wooden plows in the stony earth. Of course, progress did not stop with the wooden plow. People always searched for better tools and more productive plants to make their work more effective.&amp;#10;&amp;#10;In Stone Age, the players live in this time, just as our ancestors did. They collect wood, break stone and wash their gold from the river. They trade freely, expand their village and so achieve new levels of civilization. With a balance of luck and planning, the players compete for food in this pre-historic time.&amp;#10;&amp;#10;Players use up to ten tribe members each in three phases. In the first phase, players place their men in regions of the board that they think will benefit them, including the hunt, the trading center, or the quarry. In the second phase, the starting player activates each of his staffed areas in whatever sequence he chooses, followed in turn by the other players. In the third phase, players must have enough food available to feed their populations, or they face losing resources or points.&amp;#10;&amp;#10;Rules: https://images-cdn.zmangames.com/us-east-1/filer_public/ee/88/ee888bec-5000-4566-9fb0-8c6475e706a0/zm7260_stone_age_rules.pdf&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="697">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="338" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="136" />
+					<result value="Recommended" numvotes="344" />
+					<result value="Not Recommended" numvotes="93" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="174" />
+					<result value="Recommended" numvotes="394" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="442" />
+					<result value="Recommended" numvotes="165" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="266" />
+				</results>					
+	</poll> 
+			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="190">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="56" />
+					<result value="10" numvotes="87" />
+					<result value="12" numvotes="35" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="229">
+			
+		<results>		
+					<result level="331" value="No necessary in-game text" numvotes="225" />
+					<result level="332" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="333" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="334" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="335" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 
+			      			 
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28920" value="Stone Age" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="98663" value="Schmuck und Handel (fan expansion for Stone Age)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225880" value="Stadt Land Spielt Limitierte Sonderdrucke 2013" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147541" value="Stone Age: Casino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="107576" value="Stone Age: The Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238004" value="Stone Age: The Mammoth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38876" value="Stone Age: The New Huts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="191004" value="My First Stone Age" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="928" value="Bernd Brunnhofer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück Verlags-GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   
+	
+          
+</item>
+</items>
