@@ -102,6 +102,8 @@ for game_xml in game_info:
         game_info_dict.setdefault(player_count,([],[]))[1].append((name,playtime_min,playtime_max))
 
 for players in sorted(game_info_dict.keys()):
+    if len(players) > 2:
+        continue
     best, rec = game_info_dict[players]
     print('Best at {} players'.format(players))
     for game in best:
@@ -111,6 +113,7 @@ for players in sorted(game_info_dict.keys()):
     print('Recommended at {} players'.format(players))
     for game in rec:
         print('{} time: {}-{}min'.format(*game))
+    print('')
 
 csvprint = input('Do you want to print this to a csv? (y/n)')
 while csvprint.lower() not in ['y','yes','no','n']:
