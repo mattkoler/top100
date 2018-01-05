@@ -20,7 +20,7 @@ def tax_brackets(gross_income, deduc=12700):
         tax_17 += bracket[0] * bracket[1]
         gross_income_17 -= bracket[0]
 
-    print('2017 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes deduction of ${:,.0f})'.format(tax_17,(tax_17/gross_income)*100,deduc))
+    #print('2017 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes deduction of ${:,.0f})'.format(tax_17,(tax_17/gross_income)*100,deduc))
 
     brackets_s18 = (
         (19050, 0.1),
@@ -41,7 +41,7 @@ def tax_brackets(gross_income, deduc=12700):
         tax_s18 += bracket[0] * bracket[1]
         gross_income_s18 -= bracket[0]
 
-    print("Senate 2018 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes standard deduction of $12.7k)".format(tax_s18,(tax_s18/gross_income)*100))
+    #print("Senate 2018 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes standard deduction of $12.7k)".format(tax_s18,(tax_s18/gross_income)*100))
 
     brackets_r18 = (
         (24000, 0.0),
@@ -60,8 +60,8 @@ def tax_brackets(gross_income, deduc=12700):
         tax_r18 += bracket[0] * bracket[1]
         gross_income_r18 -= bracket[0]
 
-    print("House 2018 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes standard deduction of $24k)".format(tax_r18,(tax_r18/gross_income)*100))
-
+    #print("House 2018 total tax ${:,.0f} with tax rate of {:.2f}%. (Assumes standard deduction of $24k)".format(tax_r18,(tax_r18/gross_income)*100))
+    print(tax_17)
 
 def california_tax(gross_income):
     brackets_ca = (
@@ -83,11 +83,11 @@ def california_tax(gross_income):
             break
         tax_ca += bracket[0] * bracket[1]
         gross_income -= bracket[0]
-    return max(12700, tax_ca)
+    return max(12700, tax_ca+10000)
 
         
 for income in range(100000,500001,10000):
-    print('Taxes at ${:,}'.format(income))
+    #print('Taxes at ${:,}'.format(income))
     tax_brackets(income,california_tax(income))
-    print('')
+    #print('')
     
