@@ -5,7 +5,7 @@
 				<name type="primary" sortindex="1" value="Control" />
 			
 						                           
-						               													<description>In Control, players are time travelers who have been caught in a rupture in spacetime and displaced outside time. You must use Fuel Cells (the cards) to refuel your time machine or stop other players from refueling theirs first.&amp;#10;&amp;#10;To escape the rupture, you must reach a Fuel Cell Charge of 21 or more on your Installed Fuel Cells at the end of your turn. Whoever does so first closes the rupture, leaving the other travelers lost outside time.&amp;#10;&amp;#10;During your turn, you choose to either draw a card, install a Fuel Cell in your area of play, burn a Fuel Cell to the discard pile, or defuse an opponent's Fuel Cell. The Fuel Cell Charge on cards ranges from 1&amp;ndash;10 and different abilities on Fuel cells make for changing strategies and multiple lines of play.&amp;#10;&amp;#10;</description>
+						               													<description>Based on the classic game Cuttle, in Control, players are time travelers who have been caught in a rupture in spacetime and displaced outside time. You must use Fuel Cells (the cards) to refuel your time machine or stop other players from refueling theirs first.&amp;#10;&amp;#10;To escape the rupture, you must reach a Fuel Cell Charge of 21 or more on your Installed Fuel Cells at the end of your turn. Whoever does so first closes the rupture, leaving the other travelers lost outside time.&amp;#10;&amp;#10;During your turn, you choose to either draw a card, install a Fuel Cell in your area of play, burn a Fuel Cell to the discard pile, or defuse an opponent's Fuel Cell. The Fuel Cell Charge on cards ranges from 1&amp;ndash;10 and different abilities on Fuel cells make for changing strategies and multiple lines of play.&amp;#10;&amp;#10;</description>
 										      	               				<yearpublished value="2016" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="4" />
@@ -64,11 +64,11 @@
 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
 			
 		<results>		
-					<result level="126" value="No necessary in-game text" numvotes="0" />
-					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
-					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
-					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="130" value="Unplayable in another language" numvotes="0" />
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 
@@ -130,15 +130,7 @@
 
 			      			
 
-			      				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="115370" value="Cuttle" inbound="true"/>
-		
-									
-			
+			      			
 
 			      	      	      				
 		 			

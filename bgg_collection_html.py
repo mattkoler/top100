@@ -5,9 +5,13 @@ from itertools import zip_longest
 
 """A scraper to pull the collection from a bgg user and return results by player count"""
 
-#gets the location where we are executing so we can access files/folders next to it
+# Gets the location where we are executing so we can access files/folders next to it
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
+fetch = requests.get('https://boardgamegeek.com/boardgame/9209')
+with open(dir_path + '/game_cache/{}.html'.format('9209'),'wb') as f:
+            f.write(fetch.content)
+sys.exit()
 
 username = input('Please enter the bgg username for the collection:')
 col_url = 'https://www.boardgamegeek.com/xmlapi2/collection?username={}&excludesubtype=boardgameexpansion&own=1'.format(username)
@@ -15,7 +19,7 @@ col_url = 'https://www.boardgamegeek.com/xmlapi2/collection?username={}&excludes
 print("Fetching collection for {}".format(username))
 collection = requests.get(col_url)
 
-
+# API sometimes gives a "wait" status, if we get it 10 times exit
 counter = 0
 while collection.status_code == 202:
     time.sleep(5)
@@ -24,6 +28,7 @@ while collection.status_code == 202:
     if counter > 10:
         sys.exit()
 
+# Fail if we get something other than 202 or 200
 if collection.status_code != 200:
     print('Sorry, something went wrong. See below and try again.')
     print(collection.status_code)
@@ -43,9 +48,10 @@ if update in ['y','Y','yes','Yes']:
 else:
     update = False
 
+
 game_info = []
 for game_id in game_ids:
-    if game_id == 172242: # Hard skip on Exploding Kittens NSFW Deck to avoid duplicates
+    if game_id == 172242: # Hard skip on Exploding Kittens NSFW Deck due to it not being categorized as an expansion
         continue
     if not update:
         try:

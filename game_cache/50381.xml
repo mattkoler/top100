@@ -17,199 +17,199 @@
 										      	               				<yearpublished value="2009" />
 						               				<minplayers value="4" />
 						               				<maxplayers value="30" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="118">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="123">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="98" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="4" />
-					<result value="Not Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="100" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="1" />
-					<result value="Recommended" numvotes="16" />
-					<result value="Not Recommended" numvotes="79" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="82" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="17" />
-					<result value="Recommended" numvotes="54" />
-					<result value="Not Recommended" numvotes="31" />
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="33" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="39" />
-					<result value="Recommended" numvotes="60" />
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="62" />
 					<result value="Not Recommended" numvotes="7" />
 				</results>					
 			
 		<results numplayers="6">		
-					<result value="Best" numvotes="73" />
-					<result value="Recommended" numvotes="31" />
+					<result value="Best" numvotes="76" />
+					<result value="Recommended" numvotes="33" />
 					<result value="Not Recommended" numvotes="4" />
 				</results>					
 			
 		<results numplayers="7">		
-					<result value="Best" numvotes="62" />
-					<result value="Recommended" numvotes="36" />
-					<result value="Not Recommended" numvotes="7" />
-				</results>					
-			
-		<results numplayers="8">		
-					<result value="Best" numvotes="62" />
-					<result value="Recommended" numvotes="34" />
+					<result value="Best" numvotes="65" />
+					<result value="Recommended" numvotes="37" />
 					<result value="Not Recommended" numvotes="8" />
 				</results>					
 			
+		<results numplayers="8">		
+					<result value="Best" numvotes="65" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
 		<results numplayers="9">		
-					<result value="Best" numvotes="31" />
-					<result value="Recommended" numvotes="47" />
-					<result value="Not Recommended" numvotes="14" />
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="15" />
 				</results>					
 			
 		<results numplayers="10">		
-					<result value="Best" numvotes="26" />
-					<result value="Recommended" numvotes="51" />
-					<result value="Not Recommended" numvotes="17" />
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="18" />
 				</results>					
 			
 		<results numplayers="11">		
 					<result value="Best" numvotes="9" />
-					<result value="Recommended" numvotes="43" />
-					<result value="Not Recommended" numvotes="38" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="42" />
 				</results>					
 			
 		<results numplayers="12">		
 					<result value="Best" numvotes="8" />
 					<result value="Recommended" numvotes="41" />
-					<result value="Not Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="44" />
 				</results>					
 			
 		<results numplayers="13">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="25" />
-					<result value="Not Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="56" />
 				</results>					
 			
 		<results numplayers="14">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="22" />
-					<result value="Not Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="57" />
 				</results>					
 			
 		<results numplayers="15">		
 					<result value="Best" numvotes="6" />
 					<result value="Recommended" numvotes="20" />
-					<result value="Not Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="59" />
 				</results>					
 			
 		<results numplayers="16">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="12" />
-					<result value="Not Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="64" />
 				</results>					
 			
 		<results numplayers="17">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="10" />
-					<result value="Not Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="65" />
 				</results>					
 			
 		<results numplayers="18">		
 					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="9" />
-					<result value="Not Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="65" />
 				</results>					
 			
 		<results numplayers="19">		
 					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="8" />
-					<result value="Not Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="66" />
 				</results>					
 			
 		<results numplayers="20">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="9" />
-					<result value="Not Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="65" />
 				</results>					
 			
 		<results numplayers="21">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="22">		
 					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="4" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="23">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="70" />
 				</results>					
 			
 		<results numplayers="24">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="70" />
 				</results>					
 			
 		<results numplayers="25">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="26">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="27">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="28">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="29">		
-					<result value="Best" numvotes="3" />
+					<result value="Best" numvotes="4" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="68" />
 				</results>					
 			
 		<results numplayers="30">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="3" />
-					<result value="Not Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="69" />
 				</results>					
 			
 		<results numplayers="30+">		
 					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="2" />
-					<result value="Not Recommended" numvotes="65" />
+					<result value="Not Recommended" numvotes="71" />
 				</results>					
 	</poll> 
 			               				<playingtime value="30" />
 						               				<minplaytime value="30" />
 						               				<maxplaytime value="30" />
 						               				<minage value="17" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="97">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="102">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -220,19 +220,19 @@
 					<result value="10" numvotes="0" />
 					<result value="12" numvotes="1" />
 					<result value="14" numvotes="5" />
-					<result value="16" numvotes="49" />
-					<result value="18" numvotes="35" />
+					<result value="16" numvotes="50" />
+					<result value="18" numvotes="39" />
 					<result value="21 and up" numvotes="6" />
 				</results>					
 	</poll> 
-			      			<poll name="language_dependence" title="Language Dependence" totalvotes="69">
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="70">
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
 					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="40" />
-					<result level="5" value="Unplayable in another language" numvotes="25" />
+					<result level="5" value="Unplayable in another language" numvotes="26" />
 				</results>					
 	</poll> 
 			      			 
@@ -312,6 +312,14 @@
 					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
 		
 									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46175" value="Judging Games" />
+		
+									
 			
 
 			      				
@@ -327,7 +335,7 @@
 
 			
 		
-					<link type="boardgameexpansion" id="188972" value="Bedlam: AKA The &quot;Can Someone Take Me Off this Game?&quot; Game" />
+					<link type="boardgameexpansion" id="209454" value="Blackbox Press kit" />
 		
 									
 				
@@ -383,6 +391,14 @@
 
 			
 		
+					<link type="boardgameexpansion" id="134607" value="Cards Against Humanity: 2012 Holiday Pack" />
+		
+									
+				
+		 			
+
+			
+		
 					<link type="boardgameexpansion" id="209655" value="Cards Against Humanity: 2014 Holiday Expansion" />
 		
 									
@@ -424,14 +440,6 @@
 			
 		
 					<link type="boardgameexpansion" id="181423" value="Cards Against Humanity: Design Pack" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameexpansion" id="188028" value="Cards Against Humanity: Eight Sensible Gifts for Hanukkah" />
 		
 									
 				
@@ -503,14 +511,6 @@
 
 			
 		
-					<link type="boardgameexpansion" id="134607" value="Cards Against Humanity: Holiday Expansion" />
-		
-									
-				
-		 			
-
-			
-		
 					<link type="boardgameexpansion" id="154822" value="Cards Against Humanity: House of Cards Pack" />
 		
 									
@@ -519,7 +519,23 @@
 
 			
 		
+					<link type="boardgameexpansion" id="188028" value="Cards Against Humanity: Jew Pack" />
+		
+									
+				
+		 			
+
+			
+		
 					<link type="boardgameexpansion" id="222708" value="Cards Against Humanity: Mass Effect Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241785" value="Cards Against Humanity: Non-denominational Seasons Greetings Pack" />
 		
 									
 				
@@ -947,14 +963,6 @@
 
 			
 		
-					<link type="boardgameintegration" id="209454" value="Blackbox Press kit" />
-		
-									
-				
-		 			
-
-			
-		
 					<link type="boardgameintegration" id="157943" value="Cads About Matrimony" />
 		
 									
@@ -1011,6 +1019,14 @@
 
 			
 		
+					<link type="boardgameintegration" id="203352" value="KinderPerfect: A Timeout for Parents" />
+		
+									
+				
+		 			
+
+			
+		
 					<link type="boardgameintegration" id="233131" value="Papercuts" />
 		
 									
@@ -1036,143 +1052,7 @@
 
 			      			
 
-			      				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="230261" value="Ah Here Now" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="146496" value="Bam!: Das unanständig gute Wortspiel" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="216706" value="Blanc Manger Coco: La Pilule" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="193328" value="Blanc-Manger Coco" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="200727" value="Blanc-Manger Coco: La Recave" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="218331" value="Cards Against Profanity" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="199603" value="Developers Against Humanity" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="183145" value="Dick: A Card Game Based on the Novel by Herman Melville" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="147149" value="A Game For Good Christians" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="195842" value="Kampf gegen das Bünzlitum" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="188347" value="Karty Dżentelmenów" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="203352" value="Kinder Perfect: A Timeout for Parents" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="234647" value="L'osti d'jeu: Extension Les Appendices" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="208329" value="L'osti d'jeu: Souvenir" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="193329" value="Limite limite" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="194575" value="Loża Szyderców" />
-		
-									
-				
-		 			
-
-			
-		
-					<link type="boardgameimplementation" id="169675" value="L'osti d'jeu" />
-		
-									
-			
+			      			
 
 			      			
 

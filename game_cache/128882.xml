@@ -7,6 +7,8 @@
 						                               				
 				<name type="alternate" sortindex="1" value="Avalon" />
 			    				
+				<name type="alternate" sortindex="1" value="Avalon Malay Version" />
+			    				
 				<name type="alternate" sortindex="1" value="Avalon อวาลอน" />
 			    				
 				<name type="alternate" sortindex="1" value="Avalon: Rycerze Króla Artura" />
@@ -20,84 +22,86 @@
 				<name type="alternate" sortindex="1" value="レジスタンス: アヴァロン" />
 			    				
 				<name type="alternate" sortindex="1" value="抵抗組織：阿瓦隆" />
+			    				
+				<name type="alternate" sortindex="1" value="레지스탕스 아발론" />
 			
 						               													<description>The Resistance: Avalon pits the forces of Good and Evil in a battle to control the future of civilization. Arthur represents the future of Britain, a promise of prosperity and honor, yet hidden among his brave warriors are Mordred's unscrupulous minions. These forces of evil are few in number but have knowledge of each other and remain hidden from all but one of Arthur's servants. Merlin alone knows the agents of evil, but he must speak of this only in riddles. If his true identity is discovered, all will be lost.&amp;#10;&amp;#10;The Resistance: Avalon is a standalone game, and while The Resistance is not required to play, the games are compatible and can be combined.&amp;#10;&amp;#10;</description>
 										      	               				<yearpublished value="2012" />
 						               				<minplayers value="5" />
 						               				<maxplayers value="10" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="258">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="270">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="155" />
+					<result value="Not Recommended" numvotes="164" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="155" />
+					<result value="Not Recommended" numvotes="164" />
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="156" />
+					<result value="Not Recommended" numvotes="165" />
 				</results>					
 			
 		<results numplayers="4">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="0" />
-					<result value="Not Recommended" numvotes="157" />
+					<result value="Not Recommended" numvotes="166" />
 				</results>					
 			
 		<results numplayers="5">		
 					<result value="Best" numvotes="21" />
-					<result value="Recommended" numvotes="122" />
-					<result value="Not Recommended" numvotes="72" />
+					<result value="Recommended" numvotes="128" />
+					<result value="Not Recommended" numvotes="76" />
 				</results>					
 			
 		<results numplayers="6">		
-					<result value="Best" numvotes="43" />
-					<result value="Recommended" numvotes="154" />
-					<result value="Not Recommended" numvotes="21" />
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="160" />
+					<result value="Not Recommended" numvotes="24" />
 				</results>					
 			
 		<results numplayers="7">		
-					<result value="Best" numvotes="164" />
-					<result value="Recommended" numvotes="66" />
+					<result value="Best" numvotes="172" />
+					<result value="Recommended" numvotes="70" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
 			
 		<results numplayers="8">		
-					<result value="Best" numvotes="150" />
-					<result value="Recommended" numvotes="74" />
+					<result value="Best" numvotes="156" />
+					<result value="Recommended" numvotes="80" />
 					<result value="Not Recommended" numvotes="3" />
 				</results>					
 			
 		<results numplayers="9">		
-					<result value="Best" numvotes="62" />
-					<result value="Recommended" numvotes="125" />
-					<result value="Not Recommended" numvotes="13" />
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="130" />
+					<result value="Not Recommended" numvotes="15" />
 				</results>					
 			
 		<results numplayers="10">		
-					<result value="Best" numvotes="65" />
-					<result value="Recommended" numvotes="118" />
-					<result value="Not Recommended" numvotes="20" />
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="122" />
+					<result value="Not Recommended" numvotes="23" />
 				</results>					
 			
 		<results numplayers="10+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="14" />
-					<result value="Not Recommended" numvotes="97" />
+					<result value="Not Recommended" numvotes="104" />
 				</results>					
 	</poll> 
 			               				<playingtime value="30" />
 						               				<minplaytime value="30" />
 						               				<maxplaytime value="30" />
 						               				<minage value="13" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="53">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="54">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -107,7 +111,7 @@
 					<result value="8" numvotes="3" />
 					<result value="10" numvotes="12" />
 					<result value="12" numvotes="22" />
-					<result value="14" numvotes="10" />
+					<result value="14" numvotes="11" />
 					<result value="16" numvotes="3" />
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
@@ -116,11 +120,11 @@
 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="51">
 			
 		<results>		
-					<result level="341" value="No necessary in-game text" numvotes="15" />
-					<result level="342" value="Some necessary text - easily memorized or small crib sheet" numvotes="36" />
-					<result level="343" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
-					<result level="344" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="345" value="Unplayable in another language" numvotes="0" />
+					<result level="1" value="No necessary in-game text" numvotes="15" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="36" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 
@@ -369,6 +373,14 @@
 
 			
 		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
 					<link type="boardgamepublisher" id="2366" value="Devir" />
 		
 									
@@ -378,6 +390,14 @@
 			
 		
 					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
 		
 									
 				
@@ -402,6 +422,14 @@
 			
 		
 					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames co., Ltd." />
 		
 									
 				

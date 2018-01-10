@@ -33,57 +33,57 @@
 										      	               				<yearpublished value="2004" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="5" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="713">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="725">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="1" />
 					<result value="Recommended" numvotes="4" />
-					<result value="Not Recommended" numvotes="468" />
+					<result value="Not Recommended" numvotes="478" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="62" />
-					<result value="Recommended" numvotes="368" />
-					<result value="Not Recommended" numvotes="176" />
+					<result value="Recommended" numvotes="373" />
+					<result value="Not Recommended" numvotes="181" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="184" />
-					<result value="Recommended" numvotes="416" />
+					<result value="Best" numvotes="186" />
+					<result value="Recommended" numvotes="425" />
 					<result value="Not Recommended" numvotes="33" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="475" />
-					<result value="Recommended" numvotes="182" />
+					<result value="Best" numvotes="485" />
+					<result value="Recommended" numvotes="184" />
 					<result value="Not Recommended" numvotes="12" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="241" />
-					<result value="Recommended" numvotes="330" />
+					<result value="Best" numvotes="245" />
+					<result value="Recommended" numvotes="337" />
 					<result value="Not Recommended" numvotes="38" />
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="5" />
 					<result value="Recommended" numvotes="15" />
-					<result value="Not Recommended" numvotes="345" />
+					<result value="Not Recommended" numvotes="350" />
 				</results>					
 	</poll> 
 			               				<playingtime value="60" />
 						               				<minplaytime value="30" />
 						               				<maxplaytime value="60" />
 						               				<minage value="8" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="226">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="230">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="2" />
 					<result value="5" numvotes="4" />
 					<result value="6" numvotes="49" />
-					<result value="8" numvotes="139" />
-					<result value="10" numvotes="26" />
+					<result value="8" numvotes="141" />
+					<result value="10" numvotes="28" />
 					<result value="12" numvotes="4" />
 					<result value="14" numvotes="1" />
 					<result value="16" numvotes="0" />
@@ -91,14 +91,14 @@
 					<result value="21 and up" numvotes="0" />
 				</results>					
 	</poll> 
-			      			<poll name="language_dependence" title="Language Dependence" totalvotes="203">
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="204">
 			
 		<results>		
-					<result level="51" value="No necessary in-game text" numvotes="175" />
-					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="26" />
-					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
-					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="55" value="Unplayable in another language" numvotes="1" />
+					<result level="1" value="No necessary in-game text" numvotes="176" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="26" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
 				</results>					
 	</poll> 
 			      			 
@@ -1315,14 +1315,6 @@
 
 			
 		
-					<link type="boardgameimplementation" id="31627" value="Ticket to Ride: Nordic Countries" />
-		
-									
-				
-		 			
-
-			
-		
 					<link type="boardgameimplementation" id="14996" value="Ticket to Ride: Europe" />
 		
 									
@@ -1348,6 +1340,14 @@
 			
 		
 					<link type="boardgameimplementation" id="21348" value="Ticket to Ride: Märklin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31627" value="Ticket to Ride: Nordic Countries" />
 		
 									
 				
