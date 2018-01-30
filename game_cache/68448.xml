@@ -23,69 +23,69 @@
 										      	               				<yearpublished value="2010" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="7" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1496">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1525">
 			
 		<results numplayers="1">		
-					<result value="Best" numvotes="2" />
+					<result value="Best" numvotes="3" />
 					<result value="Recommended" numvotes="10" />
-					<result value="Not Recommended" numvotes="821" />
+					<result value="Not Recommended" numvotes="848" />
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="107" />
-					<result value="Recommended" numvotes="302" />
-					<result value="Not Recommended" numvotes="651" />
+					<result value="Recommended" numvotes="305" />
+					<result value="Not Recommended" numvotes="674" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="328" />
-					<result value="Recommended" numvotes="767" />
-					<result value="Not Recommended" numvotes="122" />
+					<result value="Best" numvotes="335" />
+					<result value="Recommended" numvotes="785" />
+					<result value="Not Recommended" numvotes="125" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="774" />
-					<result value="Recommended" numvotes="502" />
-					<result value="Not Recommended" numvotes="28" />
+					<result value="Best" numvotes="791" />
+					<result value="Recommended" numvotes="512" />
+					<result value="Not Recommended" numvotes="29" />
 				</results>					
 			
 		<results numplayers="5">		
-					<result value="Best" numvotes="618" />
-					<result value="Recommended" numvotes="610" />
+					<result value="Best" numvotes="635" />
+					<result value="Recommended" numvotes="620" />
 					<result value="Not Recommended" numvotes="41" />
 				</results>					
 			
 		<results numplayers="6">		
-					<result value="Best" numvotes="282" />
-					<result value="Recommended" numvotes="778" />
-					<result value="Not Recommended" numvotes="117" />
+					<result value="Best" numvotes="289" />
+					<result value="Recommended" numvotes="796" />
+					<result value="Not Recommended" numvotes="118" />
 				</results>					
 			
 		<results numplayers="7">		
-					<result value="Best" numvotes="258" />
-					<result value="Recommended" numvotes="703" />
-					<result value="Not Recommended" numvotes="201" />
+					<result value="Best" numvotes="264" />
+					<result value="Recommended" numvotes="720" />
+					<result value="Not Recommended" numvotes="203" />
 				</results>					
 			
 		<results numplayers="7+">		
-					<result value="Best" numvotes="17" />
+					<result value="Best" numvotes="18" />
 					<result value="Recommended" numvotes="61" />
-					<result value="Not Recommended" numvotes="560" />
+					<result value="Not Recommended" numvotes="577" />
 				</results>					
 	</poll> 
 			               				<playingtime value="30" />
 						               				<minplaytime value="30" />
 						               				<maxplaytime value="30" />
 						               				<minage value="10" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="333">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="339">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
 					<result value="4" numvotes="1" />
 					<result value="5" numvotes="0" />
 					<result value="6" numvotes="12" />
-					<result value="8" numvotes="86" />
-					<result value="10" numvotes="126" />
+					<result value="8" numvotes="87" />
+					<result value="10" numvotes="131" />
 					<result value="12" numvotes="86" />
 					<result value="14" numvotes="18" />
 					<result value="16" numvotes="3" />
@@ -93,14 +93,14 @@
 					<result value="21 and up" numvotes="0" />
 				</results>					
 	</poll> 
-			      			<poll name="language_dependence" title="Language Dependence" totalvotes="372">
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="373">
 			
 		<results>		
-					<result level="176" value="No necessary in-game text" numvotes="285" />
-					<result level="177" value="Some necessary text - easily memorized or small crib sheet" numvotes="82" />
-					<result level="178" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
-					<result level="179" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
-					<result level="180" value="Unplayable in another language" numvotes="0" />
+					<result level="1" value="No necessary in-game text" numvotes="285" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="83" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 

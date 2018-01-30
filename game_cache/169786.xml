@@ -19,7 +19,11 @@
 										      	               				<yearpublished value="2016" />
 						               				<minplayers value="1" />
 						               				<maxplayers value="5" />
+<<<<<<< HEAD
 						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="409">
+=======
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="408">
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="21" />
@@ -35,12 +39,20 @@
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="84" />
+<<<<<<< HEAD
 					<result value="Recommended" numvotes="214" />
+=======
+					<result value="Recommended" numvotes="213" />
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 					<result value="Not Recommended" numvotes="25" />
 				</results>					
 			
 		<results numplayers="4">		
+<<<<<<< HEAD
 					<result value="Best" numvotes="228" />
+=======
+					<result value="Best" numvotes="227" />
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 					<result value="Recommended" numvotes="104" />
 					<result value="Not Recommended" numvotes="5" />
 				</results>					
@@ -48,20 +60,32 @@
 		<results numplayers="5">		
 					<result value="Best" numvotes="103" />
 					<result value="Recommended" numvotes="155" />
+<<<<<<< HEAD
 					<result value="Not Recommended" numvotes="40" />
+=======
+					<result value="Not Recommended" numvotes="39" />
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 				</results>					
 			
 		<results numplayers="5+">		
 					<result value="Best" numvotes="7" />
 					<result value="Recommended" numvotes="48" />
+<<<<<<< HEAD
 					<result value="Not Recommended" numvotes="140" />
+=======
+					<result value="Not Recommended" numvotes="139" />
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 				</results>					
 	</poll> 
 			               				<playingtime value="115" />
 						               				<minplaytime value="90" />
 						               				<maxplaytime value="115" />
 						               				<minage value="14" />
+<<<<<<< HEAD
 						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="88">
+=======
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="87">
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 			<results>		
 					<result value="2" numvotes="1" />
 					<result value="3" numvotes="0" />
@@ -72,7 +96,11 @@
 					<result value="10" numvotes="16" />
 					<result value="12" numvotes="35" />
 					<result value="14" numvotes="20" />
+<<<<<<< HEAD
 					<result value="16" numvotes="8" />
+=======
+					<result value="16" numvotes="7" />
+>>>>>>> b0e030c5f242979e872471a0d6a58dad21417f67
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
 				</results>					

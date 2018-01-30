@@ -5,6 +5,8 @@
 				<name type="primary" sortindex="1" value="Tzolk&#039;in: The Mayan Calendar" />
 			
 						                               				
+				<name type="alternate" sortindex="1" value="Tzolk&#039;in 촐킨: 마야의 달력" />
+			    				
 				<name type="alternate" sortindex="1" value="Tzolk&#039;in: Calendarul Maiaș" />
 			    				
 				<name type="alternate" sortindex="1" value="Tzolk&#039;in: De Kalender van de Maya&#039;s" />
@@ -33,43 +35,43 @@
 										      	               				<yearpublished value="2012" />
 						               				<minplayers value="2" />
 						               				<maxplayers value="4" />
-						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="299">
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="313">
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
-					<result value="Recommended" numvotes="7" />
-					<result value="Not Recommended" numvotes="149" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="155" />
 				</results>					
 			
 		<results numplayers="2">		
-					<result value="Best" numvotes="45" />
-					<result value="Recommended" numvotes="175" />
+					<result value="Best" numvotes="47" />
+					<result value="Recommended" numvotes="185" />
 					<result value="Not Recommended" numvotes="24" />
 				</results>					
 			
 		<results numplayers="3">		
-					<result value="Best" numvotes="74" />
-					<result value="Recommended" numvotes="157" />
+					<result value="Best" numvotes="78" />
+					<result value="Recommended" numvotes="161" />
 					<result value="Not Recommended" numvotes="7" />
 				</results>					
 			
 		<results numplayers="4">		
-					<result value="Best" numvotes="191" />
+					<result value="Best" numvotes="199" />
 					<result value="Recommended" numvotes="58" />
-					<result value="Not Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="11" />
 				</results>					
 			
 		<results numplayers="4+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="5" />
-					<result value="Not Recommended" numvotes="110" />
+					<result value="Not Recommended" numvotes="114" />
 				</results>					
 	</poll> 
 			               				<playingtime value="90" />
 						               				<minplaytime value="90" />
 						               				<maxplaytime value="90" />
 						               				<minage value="13" />
-						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="49">
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="51">
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -78,21 +80,21 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="0" />
 					<result value="10" numvotes="3" />
-					<result value="12" numvotes="30" />
-					<result value="14" numvotes="15" />
+					<result value="12" numvotes="31" />
+					<result value="14" numvotes="16" />
 					<result value="16" numvotes="0" />
 					<result value="18" numvotes="1" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
 	</poll> 
-			      			<poll name="language_dependence" title="Language Dependence" totalvotes="84">
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="85">
 			
 		<results>		
-					<result level="146" value="No necessary in-game text" numvotes="82" />
-					<result level="147" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
-					<result level="148" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
-					<result level="149" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
-					<result level="150" value="Unplayable in another language" numvotes="0" />
+					<result level="1" value="No necessary in-game text" numvotes="83" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
 			      			 
@@ -170,6 +172,14 @@
 			
 		
 					<link type="boardgamefamily" id="10642" value="Country: Mexico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43639" value="Native American" />
 		
 									
 			
@@ -254,6 +264,14 @@
 			
 		
 					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
 		
 									
 				

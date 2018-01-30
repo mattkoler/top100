@@ -9,22 +9,43 @@
 										      	               				<yearpublished value="2017" />
 						               				<minplayers value="3" />
 						               				<maxplayers value="6" />
+<<<<<<< HEAD
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+=======
 						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 			
 		<results numplayers="1">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
+<<<<<<< HEAD
+					<result value="Not Recommended" numvotes="4" />
+=======
 					<result value="Not Recommended" numvotes="2" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 				</results>					
 			
 		<results numplayers="2">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
+<<<<<<< HEAD
+					<result value="Not Recommended" numvotes="5" />
+=======
 					<result value="Not Recommended" numvotes="2" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 				</results>					
 			
 		<results numplayers="3">		
 					<result value="Best" numvotes="0" />
+<<<<<<< HEAD
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+=======
 					<result value="Recommended" numvotes="1" />
 					<result value="Not Recommended" numvotes="2" />
 				</results>					
@@ -32,32 +53,51 @@
 		<results numplayers="4">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="2" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 					<result value="Not Recommended" numvotes="0" />
 				</results>					
 			
 		<results numplayers="5">		
+<<<<<<< HEAD
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+=======
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="0" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 					<result value="Not Recommended" numvotes="0" />
 				</results>					
 			
 		<results numplayers="6">		
+<<<<<<< HEAD
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+=======
 					<result value="Best" numvotes="2" />
 					<result value="Recommended" numvotes="0" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 					<result value="Not Recommended" numvotes="0" />
 				</results>					
 			
 		<results numplayers="6+">		
 					<result value="Best" numvotes="0" />
 					<result value="Recommended" numvotes="0" />
+<<<<<<< HEAD
+					<result value="Not Recommended" numvotes="2" />
+=======
 					<result value="Not Recommended" numvotes="1" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 				</results>					
 	</poll> 
 			               				<playingtime value="60" />
 						               				<minplaytime value="60" />
 						               				<maxplaytime value="60" />
 						               				<minage value="12" />
+<<<<<<< HEAD
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+=======
 						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 			<results>		
 					<result value="2" numvotes="0" />
 					<result value="3" numvotes="0" />
@@ -66,20 +106,34 @@
 					<result value="6" numvotes="0" />
 					<result value="8" numvotes="1" />
 					<result value="10" numvotes="0" />
+<<<<<<< HEAD
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+=======
 					<result value="12" numvotes="1" />
 					<result value="14" numvotes="0" />
 					<result value="16" numvotes="0" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 					<result value="18" numvotes="0" />
 					<result value="21 and up" numvotes="0" />
 				</results>					
 	</poll> 
+<<<<<<< HEAD
+			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+=======
 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 			
 		<results>		
 					<result level="1" value="No necessary in-game text" numvotes="0" />
 					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
 					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+<<<<<<< HEAD
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+=======
 					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+>>>>>>> a83022a6dd4605c2e7132527941373a023625957
 					<result level="5" value="Unplayable in another language" numvotes="0" />
 				</results>					
 	</poll> 
